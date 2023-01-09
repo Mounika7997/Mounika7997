@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Mounika7997
+- 👋 Hi, I’m Mounika
 - 👀 I’m interested in webdevelopment
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on javascript project
+- ✨ learning the skills to develop my career
 - 📫 How to reach me 
 
 <!---
