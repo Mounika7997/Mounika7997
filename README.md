@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounika7997&label=Profile%20views&color=0e75b6&style=flat" alt="mounika7997" /> </p>
 
-- 🔭 I’m currently working on **springapplication**
+- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Java full stack**
+- 🌱 I’m currently learning **DevOps Automation tools**
 
-- 💬 Ask me about **html , css , java , spring , hibernate**
+- 💬 Ask me about **html , css , jenkins,docker,linux,git,ansible,AWS**
 
 - 📫 How to reach me **mounik.rdg@gmail.com**
 
