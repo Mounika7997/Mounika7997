@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mounika</h1>
-<h3 align="center">A passionate fullStackDeveloper from India</h3>
+<h3 align="center">A passionate DevsecOps from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounika7997&label=Profile%20views&color=0e75b6&style=flat" alt="mounika7997" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps Automation tools**
 
-- 💬 Ask me about **html , css , jenkins,docker,linux,git,ansible,AWS**
+- 💬 Ask me about **html ,jenkins,docker,linux,git,ansible,AWS**
 
 - 📫 How to reach me **mounik.rdg@gmail.com**
 
